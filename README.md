@@ -24,4 +24,5 @@
 
 # RESULT DECRIPTION: The final result of this project is a working stock market dashboard that shows accurate and real stock information. Users can see a line graph representing the stock price movement over the last three years and a bar graph showing trading volume. The current stock price is also displayed clearly on the dashboard. The graphs are well-spaced and easy to understand, helping users analyze trends quickly. The manual refresh option allows controlled data updates. Overall, the project successfully combines real data, visualization, and a clean interface into a practical application.
 
-# OUTPUT:
+# OUTPUT: 
+<img width="1919" height="1014" alt="Image" src="https://github.com/user-attachments/assets/c89beba2-19ef-479f-bcef-6fe04c5c224f" />
